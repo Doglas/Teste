@@ -1,0 +1,137 @@
+#cabeca{
+	background-color:#bdbdbd;
+	/*background-image: url("butterfly.gif");*/
+	/*background-repeat: no-repeat;*/
+	/*background-attachment: fixed;*/
+	/*background-position: 0% 50%;*/
+	font-family: arial, verdana, sans-serif;
+	font-size: 30px;
+	position: static;
+	width: 100%;
+	height: 0%;
+	margin: auto;
+	border: 1px solid;
+}
+#jogo{
+	background-color:#000000;
+	font-family: arial, verdana, sans-serif;
+	font-size: 30px;
+	position: relative;
+	width: 340px;
+	height: 340px;
+	margin: auto;
+}
+#pos0-0{
+	top: 0px;
+	left: 0px;
+	/*float:left;*/
+	position:absolute;
+	width:100px;
+	height:100px;
+}
+#pos0-1{
+	top: 0px;
+	right: 120px;
+	/*float:left;*/
+	position:absolute;
+	width:100px;
+	height:100px;
+}
+#pos0-2{
+	top: 0px;
+	right: 0px;
+	/*float:left;*/
+	position:absolute;
+	width:100px;
+	height:100px;
+}
+#pos1-0{
+	top: 120px;
+	left: 0px;
+	/*float:left;*/
+	position:absolute;
+	width:100px;
+	height:100px;
+}
+#pos1-1{
+	top: 120px;
+	right: 120px;
+	/*float:left;*/
+	position:absolute;
+	width:100px;
+	height:100px;
+}
+#pos1-2{
+	top: 120px;
+	right: 0px;
+	/*float:left;*/
+	position:absolute;
+	width:100px;
+	height:100px;
+}
+#pos2-0{
+	top: 240px;
+	left: 0px;
+	/*float:left;*/
+	position:absolute;
+	width:100px;
+	height:100px;
+}
+#pos2-1{
+	top: 240px;
+	right: 120px;
+	/*float:left;*/
+	position:absolute;
+	width:100px;
+	height:100px;
+}
+#pos2-2{
+	top: 240px;
+	right: 0px;
+	/*float:left;*/
+	position:absolute;
+	width:100px;
+	height:100px;
+}
+#roda{/*rodapé*/
+	background-color:#bdbdbd;
+	/*background-image: url("butterfly.gif");*/
+	/*background-repeat: no-repeat;*/
+	/*background-attachment: fixed;*/
+	/*background-position: 90% 50%;*/
+	font-family: arial, verdana, sans-serif;
+	font-size: 8pt;
+	position: static;
+	width: 100%;
+	height: 0%;
+	margin: auto;
+	border: 1px solid;
+}
+#interface{
+	background-color:#bdbdbd;
+	font-family: arial, verdana, sans-serif;
+	font-size: 15pt;
+	position: static;
+	width: 100%;
+	height: 500px;
+	margin: auto;
+	border: 1px solid #000000;
+
+
+}
+body{
+	/*margin: 0;*/
+}
+p{
+	/*fazer nada*/
+}
+p.cabeca{
+	text-align: center;
+}
+p.roda{
+	font-style: italic;
+}
+p.corpo{
+	text-align: center;
+}
+	
