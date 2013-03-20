@@ -1,0 +1,105 @@
+.center{
+	/*background-color: #000;*/
+	text-align: center;
+	color: #fff;
+	font-size: 30px;
+	font-family: arial, verdana, sans-serif;
+	margin: auto;
+}
+.btn{
+	font: bold 12px arial, sans-aerif;	
+	text-align:center;
+	color:#fff;
+	width: 100px; 
+	height: 30px;
+	border: 0px;
+}
+.lado{
+	float:left;
+	width:200px;
+	height:50px;
+}
+.erro{
+	background-color: #f00;
+	text-align: center;
+	float: right;
+	width: 300px;
+	height: 30px;
+}
+.acerto{
+	background-color: #0f0;
+	text-align: center;
+	float: right;
+	width: 300px;
+	height: 30px;
+}
+#sair{
+	position:absolute;
+	bottom:0px;
+	right:0px;
+	width:100px;
+	height:30px;
+}
+#cliente{
+	background-color: #fff;
+	margin: auto;
+	position: relative;
+}
+#logo{
+	background-color: #fff;
+	text-align: center;
+	margin: auto;
+	position:relative;
+}
+#menu{
+	background-color: #fff;
+	/*float: left;*/
+	text-align:center;
+	margin-left: -500px;
+	position:relative;
+	width: 1000px;
+	left:50%;
+	height: 30px;
+}
+#tela{
+	background-color: #fff;
+	position: relative;
+	display:table;
+	text-align: center;
+	margin-left: -500px;
+	top:50%;
+	left: 50%;
+	width: 1000px;
+	/*height: 400px;*/
+}
+#oferta{
+	background-color: #fff;
+	text-align:center;
+	position: relative;
+	/*top: 50%;*/
+	left: 50%;
+	width: 600px;
+	/*height: 300px;*/
+	margin-left: -300px;
+	/*margin-top: -150px;*/
+}
+#out{
+	background-color: #fff;
+	color: #000000;
+	text-align: left;
+	font-size: 10px;
+	font-family: arial, verdana, sans-serif;
+	margin: auto;
+}
+#coluna{
+	background-color: #fff;
+	float: left;
+	margin:auto;
+	width: 300px;
+}
+#mostraAparelho{
+	background-color: #fff;
+	float: left;
+	margin: auto;
+	width:700px;
+}

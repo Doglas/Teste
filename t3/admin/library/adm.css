@@ -1,0 +1,126 @@
+.erro{
+	background-color: #f00;
+	text-align: center;
+	float: right;
+	width: 300px;
+	height: 30px;
+}
+.acerto{
+	background-color: #0f0;
+	text-align: center;
+	float: right;
+	width: 300px;
+	height: 30px;
+}
+.btn{
+	font: bold 12px arial, sans-aerif;	
+	text-align:center;
+	color:#fff;
+	width: 100px; 
+	height: 30px;
+	border: 0px;
+}
+#sair{
+	position:absolute;
+	bottom:0px;
+	right:0px;
+	width:100px;
+	height:30px;
+}
+#logo{
+	background-color: #fff;
+	text-align: center;
+	margin: auto;
+	position:relative;
+}
+#corpo{
+	background-color: #fff;
+	margin: auto;
+	display:table;
+	position: relative;
+	max-width: 1000px;
+	margin-left:-500px;
+	left:50%;
+}
+#menu{
+	background-color: #fff;
+	float: left;
+	width: 300px;
+}
+#dados{
+	background-color: #fff;
+	float: left;
+	margin: auto;
+	width:700px;
+}
+/***************Divs de cadastros***********/
+#cadastro{
+	color:white;
+	background-color: #f00;
+	position:relative;
+	max-width:300px;
+	left: 0px;
+}
+#cadCliente{
+	color:white;
+	background-color: #300;
+}
+#cadFabricante{
+	color:white;
+	background-color: #700;
+}
+#cadAparelho{
+	color:white;
+	background-color: #a00;
+}
+#cadCamera{
+	color:white;
+	background-color: #d00;
+}
+/*******************DIVS DE EDITAR************/
+#editar{
+	color:white;
+	background-color: #0f0;
+	position:relative;
+	max-width:300px;
+	left: 0px;
+}
+#edtCliente{
+	color:white;
+	background-color: #030;
+}
+#edtFabricante{
+	color:white;
+	background-color: #070;
+}
+#edtCamera{
+	color:white;
+	background-color: #0a0;
+}
+#edtAparelho{
+	color:white;
+	background-color: #0d0;
+}
+#deletar{
+	color:white;
+	background-color: #00f;
+	position:relative;
+	max-width:300px;
+	left: 0px;
+}
+#dltCliente{
+	color:white;
+	background-color: #003;
+}
+#dltFabricante{
+	color:white;
+	background-color: #007;
+}
+#dltCamera{
+	color:white;
+	background-color: #00a;
+}
+#dltAparelho{
+	color:white;
+	background-color: #00d;
+}

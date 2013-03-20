@@ -1,0 +1,20 @@
+#dados{
+	background-color: #fff;
+	float: left;
+	margin: auto;
+	width:700px;
+}
+#erro{
+	background-color: #f00;
+	text-align: center;
+	float: right;
+	width: 300px;
+	height: 30px;
+}
+#acerto{
+	background-color: #0f0;
+	text-align: center;
+	float: right;
+	width: 300px;
+	height: 30px;
+}
